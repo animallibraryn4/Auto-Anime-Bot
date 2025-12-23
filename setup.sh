@@ -1,32 +1,13 @@
 #!/bin/bash
 
-# -- Important Build essential files -- # 
+# Basic dependencies
 sudo apt update
-sudo apt install -y \
-    build-essential \
-    zlib1g-dev \
-    libncurses5-dev \
-    libgdbm-dev \
-    libnss3-dev \
-    libssl-dev \
-    libreadline-dev \
-    libffi-dev \
-    libsqlite3-dev \
-    wlibbz2-dev \
-    wget \
-    software-properties-common \
-    libboost-all-dev \
-    libtorrent-rasterbar-dev
+sudo apt install -y python3.11 python3.11-dev ffmpeg wget
 
-# Install Python 3.11.3
-sudo add-apt-repository -y ppa:deadsnakes/ppa
-sudo apt-get install -y python3.11 python3.11-dev
+# Install libtorrent dependencies
+sudo apt install -y libboost-all-dev libssl-dev
 
-# Installing ffmpeg 
-sudo apt install -y ffmpeg
-
-# Update pip
+# Install Python packages
 python3.11 -m pip install --upgrade pip
-
-# Installing Required Pypi Packages
-python3.11 -m pip install -U -r requirements.txt
+python3.11 -m pip install python-libtorrent
+python3.11 -m pip install -r requirements.txt
