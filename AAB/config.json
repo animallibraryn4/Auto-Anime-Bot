@@ -1,14 +1,14 @@
 {
     "Author" : "Yash-Kun",
     "Licensed_under" : "GNU GPL V-3.0",
-    "owner" : ["Replace with ID of sudos."],
-    "database_url" : "Your Mongo",
-    "main_channel" : "Id or channel username",
+    "owner" : ["5380609667."],
+    "database_url" : "mongodb+srv://mikota4432:jkJDQuZH6o8pxxZe@cluster0.2vngilq.mongodb.net/?retryWrites=true&w=majority",
+    "main_channel" : "-1002263636517",
     "thumbnail_url" : "AAB/utils/thumb.jpeg",
-    "files_channel" : -100,
-    "production_chat" : -100,
-    "api_id" : 123456,
-    "api_hash" : "Api Hash",
-    "main_bot" : "Main Bot for file transfer",
-    "client_bot" : "Client Bot for upload"
+    "files_channel" : -1001896877147,
+    "production_chat" : -1002263636517,
+    "api_id" : 22299340,
+    "api_hash" : "09b09f3e2ff1306da4a19888f614d937",
+    "main_bot" : "7646905708:AAH9udj0Vm4_SMFNM68WhAChl__teeB03ZA",
+    "client_bot" : "7920703383:AAHivydnm9ggBLjeVc4NTQhM7T2p5ewfxOM"
 }
