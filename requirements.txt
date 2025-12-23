@@ -4,3 +4,4 @@ requests
 pymongo[srv]
 requests
 lxml
+python-libtorrent
