@@ -1,14 +1,14 @@
-{
+z{
     "Author" : "Yash-Kun",
     "Licensed_under" : "GNU GPL V-3.0",
-    "owner" : ["5380609667."],
+    "owner" : ["5380609667"],
     "database_url" : "mongodb+srv:/:/?retryWrites=true&w=majority",
-    "main_channel" : "-1002263636517",
-    "thumbnail_url" : "AAB/utils/thumb.jpeg",
-    "files_channel" : -,
-    "production_chat" : -,
-    "api_id" : ,
-    "api_hash" : "",
-    "main_bot" : "7",
+    "main_channel" : "-1001896877147",
+    "thumbnail_url" : "AAB/utils/https://files.catbox.moe/50drro.jpg",
+    "files_channel" : -1001896877147,
+    "production_chat" : -1001925970923,
+    "api_id" : 22299340,
+    "api_hash" : "09b09f3e2ff1306da4a19888f614d937",
+    "main_bot" : "",
     "client_bot" : ""
 }
