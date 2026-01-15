@@ -2,13 +2,13 @@ z{
     "Author" : "Yash-Kun",
     "Licensed_under" : "GNU GPL V-3.0",
     "owner" : ["5380609667"],
-    "database_url" : "mongodb+srv:/:/?retryWrites=true&w=majority",
+    "database_url" : "mongodb+srv://mikota4432:jkJDQuZH6o8pxxZe@cluster0.2vngilq.mongodb.net/?retryWrites=true&w=majority",
     "main_channel" : "-1001896877147",
     "thumbnail_url" : "AAB/utils/https://files.catbox.moe/50drro.jpg",
     "files_channel" : -1001896877147,
     "production_chat" : -1001925970923,
     "api_id" : 22299340,
     "api_hash" : "09b09f3e2ff1306da4a19888f614d937",
-    "main_bot" : "",
-    "client_bot" : ""
+    "main_bot" : "7765824536:AAFxnM5qftx3LWjLjxKsnXeuLf3XMXo950o",
+    "client_bot" : "7673661228:AAH86JR5hTw_Ck9UI5zq0KQ8JnPTL2OVNoU"
 }
